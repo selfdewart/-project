@@ -25,3 +25,4 @@
 #     if connection:
 #         connection.close()
 #         print("[INFO] PostgreSQL connection closed")
+print("!hello, World")
